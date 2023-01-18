@@ -1,0 +1,1 @@
+# www.kodluyoruz.org 'un hazırladığı patika.dev 'deki html ödevimin birincisi.
